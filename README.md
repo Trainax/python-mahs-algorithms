@@ -1,2 +1,2 @@
-# python-mahs-algorithms
+# python-maths-algorithms
 This repository contains all the maths algorithms and functions I've written in Python
